@@ -14,6 +14,8 @@ Lets try to take an angle from a Search and Rescue challenge: design a robot to 
 
 ## Topics
 
+*Note:* all works in <span style="color:orange">orange</span> are applied to multi-robot systems.
+
 1. [SLAM](topics/SLAM.md)
 2. [Exploration](topics/exploration.md)
 3. Semantics

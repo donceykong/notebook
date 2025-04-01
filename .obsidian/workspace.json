@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3805c8931e60f8ea",
+        "id": "8d044154c41cc48a",
         "type": "tabs",
         "children": [
           {
-            "id": "4b32965e95af0d4e",
+            "id": "0b2b5cae3c703174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "topics/exploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "exploration"
             }
           }
         ]
@@ -168,12 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b32965e95af0d4e",
+  "active": "0b2b5cae3c703174",
   "lastOpenFiles": [
+    "A_Multi-Robot_Exploration_Planner_for_Space_Applications.pdf",
+    "A_Multi-Robot_Exploration_Planner_for_Space_Applications.pdf.crdownload",
     "README.md",
-    "research/Overview.md",
+    "topics/exploration.md",
+    "topics",
+    "topics/SLAM.md",
     "research/multi_robot/map_merging.md",
     "research/multi_robot/README.md",
+    "slam.md",
+    "SLAM",
+    "research/Overview.md",
     "multi_robot/README.md",
     "multi_robot",
     "research/multi_robot",

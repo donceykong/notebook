@@ -3,7 +3,7 @@
 Robotic Exploration is quite an interesting field of robotics, dating back to early 2000's.
 
 ## 2024
-- ✨ <span style="color:orange">A Multi-Robot Exploration Planner for Space Applications</span>
+- 🤖🔗🤖 <span style="color:orange">A Multi-Robot Exploration Planner for Space Applications</span>
 	- [Link to paper](https://ieeexplore.ieee.org/abstract/document/10847879)
 - d
 
